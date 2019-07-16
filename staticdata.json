@@ -1,0 +1,28 @@
+{
+    "cells": [
+        {
+            "title": "Intro to react",
+            "image": "https://images.unsplash.com/photo-1550329260-1dfc471eb800?ixlib=rb-1.2.1&dpr=1&auto=format&fit=crop&w=525&q=60"
+        },
+        {
+            "title": "Intro to angular",
+            "image": "https://images.unsplash.com/photo-1524275406383-49f669cf763a?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "title": "Intro to vue",
+            "image": ".https://images.unsplash.com/photo-1495121605193-b116b5b9c5fe?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+        },
+        {
+            "title": "Intro to invision",
+            "image": "./src/assets/images/fashion1.jpg"
+        },
+        {
+            "title": "Intro to css grid",
+            "image": "./src/assets/images/fashion1.jpg"
+        },
+        {
+            "title": "Intro to css modules",
+            "image": "./src/assets/images/fashion1.jpg"
+        }
+    ]
+}
